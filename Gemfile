@@ -1,4 +1,6 @@
-source :rubygems
+source 'https://rubygems.org'
+
+ruby '1.9.3'
 
 gem 'middleman', '~> 1.1.0.beta'
 gem 'compass',  '~> 0.11.beta'
