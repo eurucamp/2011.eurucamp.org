@@ -6,7 +6,7 @@ set :haml, {
   :ugly => false
 }
 
-set :build_dir, 'preview'
+set :build_dir, 'docs'
 
 ::Compass.configuration.relative_assets = true
 ::Compass.configuration.sass_options = {
