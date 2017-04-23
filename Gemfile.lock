@@ -113,3 +113,9 @@ DEPENDENCIES
   html5-boilerplate!
   lemonade (~> 0.3.4)
   middleman (~> 1.1.0.beta)
+
+RUBY VERSION
+   ruby 1.9.3p550
+
+BUNDLED WITH
+   1.14.3
